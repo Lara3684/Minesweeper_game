@@ -28,6 +28,11 @@ BGCOLOR = GREY
 
 class Box:
 
+class Mine:
+
+class Number:
+
+class MiniGame:
 
 class Board:
     def __init__(self):
